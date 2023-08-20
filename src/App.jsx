@@ -21,7 +21,7 @@ const App = () => (
     <section className="padding-x py-10">
       <Services />
     </section>
-    <section className="padding-x py-10">
+    <section className="padding">
       <SpecialOffer />
     </section>
     <section className="bg-pale-blue padding">
